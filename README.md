@@ -1,3 +1,3 @@
 # REPRUEVA
-# Repositorio de Pruebas Varias
-Nada en especifico
+Repositorio de Pruebas Varias
+
